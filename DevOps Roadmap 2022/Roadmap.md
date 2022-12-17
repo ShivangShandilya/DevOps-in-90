@@ -14,10 +14,10 @@
 - [ ] [Complete Git and GitHub Tutorial (Kunal Kushwaha)](https://youtu.be/apGV9Kg7ics)
 - [ ] [Git for Professionals (freecodecamp)](https://youtu.be/Uszj_k0DGsg)
 
-## cloud
+## Cloud
 - [ ] [AWS cloud practitioner (freecodecamp)](https://youtu.be/SOTamWNgDKc)
 
-## docker
+## Docker
 - [ ] [Docker playlist by Saloni](https://www.youtube.com/playlist?list=PL5uLNcv9SibBZj30yqG01a7A4_MXSyGK3)
 - [ ] [Docker ((freecodecamp)](https://youtu.be/9zUHg7xjIqQ)
 - [ ] [Docker (Techworldwithnana)](https://youtu.be/3c-iBn73dDE)
