@@ -26,6 +26,10 @@ Steps are as follows:-
 - <h3>After installing Oh-my-ZSH on your terminal you are good to go. Happy Coding !!!</h3>
   
   **If you are still not clear about how to install zsh checkout [TechSolutionZ](https://www.youtube.com/watch?v=-s3Yjzu4P4o&t=90s).
+  
+  ** Also do checkout my Blog on:-
+  
+  [Linux - Installation and Basic Terminal Commands](https://mydevopsjourney.hashnode.dev/linux-and-its-basic-terminal-commands)
 
 
 
