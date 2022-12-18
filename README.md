@@ -11,4 +11,10 @@
 
  => Following Roadmap of [Saiyam Pathak Sir](https://www.youtube.com/watch?v=7l_n97Mt0ko&feature=youtu.be).
  
+ Also do checkout my Blogs on various DevOps stuff:-
+ 
+ - [Cloud](https://mydevopsjourney.hashnode.dev/want-to-get-started-with-cloud)
+ 
+ - [Linux](https://mydevopsjourney.hashnode.dev/linux-and-its-basic-terminal-commands)
+ 
  
