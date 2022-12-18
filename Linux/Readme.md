@@ -1,1 +1,1 @@
-To gain more information about Linux and it's terminal commands do checkout this Blog :-
+To gain more information about Linux and it's terminal commands do checkout this Blog :- [Linux - Installation and Basic Terminal Commands](https://mydevopsjourney.hashnode.dev/linux-and-its-basic-terminal-commands)
