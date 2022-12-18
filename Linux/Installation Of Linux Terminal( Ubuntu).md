@@ -24,6 +24,6 @@ This guide is basically to show you how to install Linux Terminal ( UBUNTU ) on 
 
 ![image](https://user-images.githubusercontent.com/101946115/208233125-e80b6ce3-07cb-41c9-86f2-e19e0eaf856e.png)
 
-<h3> For more information on Linux and it's Terminal Commands , Do check out this blog :- </h3>
+<h3> For more information on Linux and it's Terminal Commands , Do check out this blog :- [Linux - Installation and Basic Terminal Commands](https://mydevopsjourney.hashnode.dev/linux-and-its-basic-terminal-commands)</h3>
 
 
