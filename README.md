@@ -21,11 +21,15 @@
 - [Basic Terminal Commands](https://github.com/ShivangShandilya/DevOps-in-90/blob/main/Linux/Linux%20Terminal%20Commands.pdf)
 - [Linux Blog](https://mydevopsjourney.hashnode.dev/linux-and-its-basic-terminal-commands)
  
-
-
-
-  Also do checkout my Blogs on various DevOps stuff:-
  
- - [Cloud](https://mydevopsjourney.hashnode.dev/want-to-get-started-with-cloud)
- 
+<h1> Computer Network and Architecture </h1>
+
+<img src = "https://user-images.githubusercontent.com/101946115/208457206-0f780a27-c3bb-422d-954d-3a4466d5fb22.png" height = 150 width = 200 align = "right" />
+
+- [Computer Network Notes](https://github.com/ShivangShandilya/DevOps-in-90/blob/main/Computer%20Network%20and%20Architecture/Computer%20Network%20Notes.pdf)
+- [Types of Topologies](https://github.com/ShivangShandilya/DevOps-in-90/blob/main/Computer%20Network%20and%20Architecture/Types%20of%20Topologies.md)
+- [OSI MODEL](https://github.com/ShivangShandilya/DevOps-in-90/blob/main/Computer%20Network%20and%20Architecture/OSI%20MODEL.md)
+
+
+
  
