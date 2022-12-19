@@ -11,10 +11,21 @@
 
  => Following Roadmap of [Saiyam Pathak Sir](https://www.youtube.com/watch?v=7l_n97Mt0ko&feature=youtu.be).
  
- Also do checkout my Blogs on various DevOps stuff:-
+<h1> Linux </h1>
+
+<img src = "https://user-images.githubusercontent.com/101946115/208364675-23c7f304-230d-4987-a0de-c13632159ddd.png" height = 150 width = 150 align = "right"/>
+
+
+- [Installation guide of UBUNTU](https://github.com/ShivangShandilya/DevOps-in-90/blob/main/Linux/Installation%20Of%20Linux%20Terminal(%20Ubuntu).md)
+- [Installation guide of zsh Shell](https://github.com/ShivangShandilya/DevOps-in-90/blob/main/Linux/Installation%20of%20zsh%20Shell.md)
+- [Basic Terminal Commands](https://github.com/ShivangShandilya/DevOps-in-90/blob/main/Linux/Linux%20Terminal%20Commands.pdf)
+- [Linux Blog](https://mydevopsjourney.hashnode.dev/linux-and-its-basic-terminal-commands)
+ 
+
+
+
+  Also do checkout my Blogs on various DevOps stuff:-
  
  - [Cloud](https://mydevopsjourney.hashnode.dev/want-to-get-started-with-cloud)
- 
- - [Linux](https://mydevopsjourney.hashnode.dev/linux-and-its-basic-terminal-commands)
  
  
