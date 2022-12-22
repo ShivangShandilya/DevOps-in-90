@@ -30,6 +30,12 @@
 - [Types of Topologies](https://github.com/ShivangShandilya/DevOps-in-90/blob/main/Computer%20Network%20and%20Architecture/Types%20of%20Topologies.md)
 - [OSI MODEL](https://github.com/ShivangShandilya/DevOps-in-90/blob/main/Computer%20Network%20and%20Architecture/OSI%20MODEL.md)
 
+<h1> YAML </h1>
+
+<img src = "https://user-images.githubusercontent.com/101946115/209073426-be686ce2-19b4-4e5a-8a25-734f63ba3b9d.png" height = 150 width = 150 align = "right" />
+
+- [Syntax of YAML](https://github.com/ShivangShandilya/DevOps-in-90/blob/main/YAML/Syntax.md)
+- [YAML Blog](https://mydevopsjourney.hashnode.dev/yaml-what-is-it)
 
 
  
